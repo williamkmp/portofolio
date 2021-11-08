@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.7564aa26.chunk.css",
+    "main.js": "/portofolio/static/js/main.a9889534.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.a9889534.chunk.js.map",
+    "runtime-main.js": "/portofolio/static/js/runtime-main.7c5729ed.js",
+    "runtime-main.js.map": "/portofolio/static/js/runtime-main.7c5729ed.js.map",
+    "static/js/2.71ba3937.chunk.js": "/portofolio/static/js/2.71ba3937.chunk.js",
+    "static/js/2.71ba3937.chunk.js.map": "/portofolio/static/js/2.71ba3937.chunk.js.map",
+    "index.html": "/portofolio/index.html",
+    "static/css/main.7564aa26.chunk.css.map": "/portofolio/static/css/main.7564aa26.chunk.css.map",
+    "static/js/2.71ba3937.chunk.js.LICENSE.txt": "/portofolio/static/js/2.71ba3937.chunk.js.LICENSE.txt",
+    "static/media/FudU.a4f922bf.png": "/portofolio/static/media/FudU.a4f922bf.png",
+    "static/media/WILLIAM KURNIA MULYADI PUTRA - CV.b50b1f24.pdf": "/portofolio/static/media/WILLIAM KURNIA MULYADI PUTRA - CV.b50b1f24.pdf",
+    "static/media/WebShooterMockup.3f815b75.png": "/portofolio/static/media/WebShooterMockup.3f815b75.png",
+    "static/media/asl.5c5d56cf.png": "/portofolio/static/media/asl.5c5d56cf.png",
+    "static/media/portrait.024a4017.jpeg": "/portofolio/static/media/portrait.024a4017.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c5729ed.js",
+    "static/js/2.71ba3937.chunk.js",
+    "static/css/main.7564aa26.chunk.css",
+    "static/js/main.a9889534.chunk.js"
+  ]
+}
